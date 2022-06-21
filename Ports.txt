@@ -2,3 +2,4 @@ Services
 IdentityServer 5001
 CatalogAPI 5011
 PhotoStockAPI 5012
+BasketAPI 5013

@@ -6,3 +6,4 @@ BasketAPI 5013
 DiscountAPI 5014
 OrdertAPI 5015
 FakePaymentAPI 5016
+GatewayAPI 5000

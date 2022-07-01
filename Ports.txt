@@ -7,3 +7,4 @@ DiscountAPI 5014
 OrdertAPI 5015
 FakePaymentAPI 5016
 GatewayAPI 5000
+MVCWeb 5010

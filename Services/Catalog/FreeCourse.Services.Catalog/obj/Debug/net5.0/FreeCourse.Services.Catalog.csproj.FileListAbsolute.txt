@@ -57,3 +57,14 @@ C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalo
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MassTransit.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\NewId.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\RabbitMQ.Client.dll

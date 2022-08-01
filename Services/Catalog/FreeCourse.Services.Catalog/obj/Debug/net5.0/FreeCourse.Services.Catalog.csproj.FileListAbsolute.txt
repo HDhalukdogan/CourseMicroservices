@@ -32,10 +32,6 @@ C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalo
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\SharpCompress.dll
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
@@ -44,10 +40,6 @@ C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalo
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
-C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\FreeCourse.Shared.pdb
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

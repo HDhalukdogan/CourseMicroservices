@@ -60,3 +60,11 @@ C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalo
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\haluk.dogan\Desktop\Projects\DotNet\CourseMicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Q65CIstwkR8BVdw9uBrfyvHhvRHQInNrei+0/4f1+jl+4vs4mlgsPxGqz0OI1GjBL1Je1PBs4n9QcnZJq99m1g==",
+  "dgSpecHash": "eHj6vo/T3+fYiCgPmvIsu7AMuCq7oIQIUQqeBBEkURQgvR5t9l7CADvQy4eF0Yc5TmemuP4QbIw/p8ptkyX66g==",
   "success": true,
   "projectFilePath": "C:\\Users\\haluk.dogan\\Desktop\\Projects\\DotNet\\CourseMicroservices\\IdentityServer\\FreeCourse.IdentityServer\\FreeCourse.IdentityServer.csproj",
   "expectedPackageFiles": [
